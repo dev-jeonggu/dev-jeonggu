@@ -21,10 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jeonggu&layout=compact&theme=vue&hide_border=true" />
 </div>
 
-## 🌐 Contact  
-- **Email**: [dev.jeonggu@gmail.com](mailto:dev.jeonggu@gmail.com)  
-- **Blog**: [https://bcsjh.tistory.com/](https://bcsjh.tistory.com/)
-
 ---
 
 🎯 **Continuously growing to become a better developer. Thank you!**
