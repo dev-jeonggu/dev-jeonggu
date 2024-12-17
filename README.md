@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🌟 Welcome to jeonggu.kim's GitHub  
 
-<!--
-**dev-jeonggu/dev-jeonggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Main Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
+</div>
 
-Here are some ideas to get you started:
+## 📚 Experienced at least once
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jeonggu&layout=compact&theme=vue&hide_border=true" />
+</div>
+
+## 🌐 Contact  
+- **Email**: [dev.jeonggu@gmail.com](mailto:dev.jeonggu@gmail.com)  
+- **Blog**: [https://bcsjh.tistory.com/](https://bcsjh.tistory.com/)
+
+---
+
+🎯 **Continuously growing to become a better developer. Thank you!**
