@@ -1,5 +1,8 @@
 # 🌟 Welcome to jeonggu.kim's GitHub  
 
+## 📊 Career Timeline
+![Career Timeline](https://raw.githubusercontent.com/dev-jeonggu/career-timeline/main/output/career_gantt_final.png)
+
 ## 🛠️ Main Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
